@@ -1,4 +1,4 @@
-# html-email-sender
+# js-email-sender
 
 A simple example on how we can send HTML content in emails using javascript.
 
